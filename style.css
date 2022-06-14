@@ -14,7 +14,7 @@ div {
 
 p {
   border-top: 2px dashed;
-  border-color: blue !important;
+  border-color: rgb(255, 0, 157) !important;
   margin:0; padding: 30px;
   counter-increment: section;
   position: relative;
