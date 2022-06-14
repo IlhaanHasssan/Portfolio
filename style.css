@@ -31,7 +31,7 @@ p:nth-child(even):before {
   padding: 10px;
   height: 20px;
   width: 20px;
-  background-color: blue;
+  background-color: rgb(255, 0, 157);
   text-align:center;
   color: white;
   font-size: 110%;
@@ -46,7 +46,7 @@ p:nth-child(odd):before {
   padding: 10px;
   height: 20px;
   width: 20px;
-  background-color: blue;
+  background-color: rgb(255, 0, 157);
   text-align:center;
   color: white;
   font-size: 110%;
